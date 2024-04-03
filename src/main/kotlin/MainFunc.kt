@@ -78,8 +78,6 @@ fun main ()
     var average = doubleNumList.average()
 
 
-
-
     println("Sum: $num1 + $num2 = $sum")
     println("Subtraction: $num1 - $num2 = $subtraction" )
     println("Division: $num1 / $num2 = $division" )

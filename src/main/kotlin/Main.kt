@@ -11,7 +11,6 @@ fun main ()
 
     println("Data_1: "+name+" "+surname+" "+age+" "+isStudent)
 
-
     var name2:String = "Name_2"
     var surname2:String = "Surname_2"
     var age2:Int=20

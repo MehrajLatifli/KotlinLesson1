@@ -74,9 +74,7 @@ fun main ()
     var division = num1 / num2
     var multiplication = num1 * num2
     var modulus = num1.rem(num2)
-
     var average = doubleNumList.average()
-
 
     println("Sum: $num1 + $num2 = $sum")
     println("Subtraction: $num1 - $num2 = $subtraction" )

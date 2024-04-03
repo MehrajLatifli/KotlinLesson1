@@ -61,7 +61,7 @@ fun main ()
 
     println("\n");
 
-    // Task 3
+    // Task 4
 
     var num1:Double =255.255
     var num2:Int =1000
